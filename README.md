@@ -58,6 +58,17 @@ install.packages(c("shiny", "tm", "wordcloud", "stringr", "RColorBrewer",
 Además, colocá el archivo **`bestSelling_games.csv`** en el mismo directorio que el script de la app.
 Link De Descarga del Dataset:  https://www.kaggle.com/datasets/hbugrae/best-selling-steam-games-of-all-time?resource=download
 
+## (IMPORTANTE) Files:
+shinyDashBoard.R: Código principal de la aplicación Shiny. Contiene el servidor y la interfaz del usuario para el análisis interactivo de los datos de Steam.
 
+bestSelling_games.csv: Conjunto de datos que incluye información sobre los juegos más vendidos en la plataforma Steam. Este archivo es utilizado como entrada para la visualización y análisis.
+
+Modo de Uso.pdf: Documento que explica paso a paso cómo utilizar la aplicación.
+
+Explicación Código de la Aplicación Shiny para Análisis de Juegos de Steam: Documento que detalla y comenta el código de la app Shiny, explicando sus componentes clave y su funcionamiento.
+
+Links Para hacer el Shinny: Contiene enlaces útiles utilizados para construir la aplicación, incluyendo documentación, tutoriales y recursos de apoyo e IAs.
+
+Storytelling_ Análisis Interactivo de Juegos de Steam 2024: Trabajo escrito que describe la narrativa del proyecto y el enfoque del análisis de datos.
 
 ![Steam Dashboard Screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png)
