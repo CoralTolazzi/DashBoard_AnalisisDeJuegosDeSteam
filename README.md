@@ -63,7 +63,7 @@ shinyDashBoard.R: Código principal de la aplicación Shiny. Contiene el servido
 
 bestSelling_games.csv: Conjunto de datos que incluye información sobre los juegos más vendidos en la plataforma Steam. Este archivo es utilizado como entrada para la visualización y análisis.
 
-Modo de Uso.pdf: Documento que explica paso a paso cómo utilizar la aplicación.
+Modo de Uso: Documento que explica paso a paso cómo utilizar la aplicación.
 
 Explicación Código de la Aplicación Shiny para Análisis de Juegos de Steam: Documento que detalla y comenta el código de la app Shiny, explicando sus componentes clave y su funcionamiento.
 
