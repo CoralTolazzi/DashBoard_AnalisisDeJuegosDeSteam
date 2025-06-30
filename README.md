@@ -1,4 +1,4 @@
-# Trabajo Práctico N.º 5 - Visualización Interactiva: Juegos de Steam
+# Trabajo Práctico DashBoard - Visualización Interactiva: Juegos de Steam
 
 **Nombre:** Coral Tolazzi
 **Materia:** Ciencia de Datos
