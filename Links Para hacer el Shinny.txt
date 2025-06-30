@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=wSYt4IYIsdI&list=PLgMys_odottAuACtZFUKXQzpGH-m7FpEL
+https://www.youtube.com/watch?v=6mJaw5pLtso&list=PLgMys_odottAuACtZFUKXQzpGH-m7FpEL&index=5
+
+Páginas Tutoriales:
+https://www.w3schools.com/r/default.asp
+https://mastering-shiny.org/basic-intro.html
+
+GitHubs Tutoriales:
+https://github.com/rstudio/shiny-examples
+https://github.com/search?q=repo%3Adaattali%2Fadvanced-shiny++language%3AR&type=code
+
+IA utilizadas:
+Chat GPT
+DeepSeek
+
+DataSet Utilizado:
+https://www.kaggle.com/datasets/hbugrae/best-selling-steam-games-of-all-time?resource=download
